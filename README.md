@@ -2,8 +2,12 @@
 BOI is a web-based interface for monitoring the connectivity status of various devices. It provides a visual representation of the network status of remote live-feed cameras, with the ability to directly manage these devices through the interface.
 The system updates in real-time, ensuring that the status information is current. This setup can be used for network administration in environments where real-time monitoring of device statuses is critical.
 
-## installation
+## Installation
 Ensure XAMPP is running with both Apache and MySQL modules activated for the interface to operate properly.
+
+## Screenshot
+This is a iteration I use for my personal work flow.
+![Screenshot](pic1nw.png)
 
 ## Usage
 Edit the array to add IP addresses and credentials, and remove any of the objects you won’t be using.
